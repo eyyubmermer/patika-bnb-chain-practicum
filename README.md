@@ -16,15 +16,17 @@
 
 ## Projects
 
+### NFT
+
+### GameFi
+
 ### DeFi
 
-### NFTs
+### SocialFi
 
 ### Metaverse
 
 ### Infra
-
-### GameFi
 
 ---
 
