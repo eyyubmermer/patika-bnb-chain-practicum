@@ -1,14 +1,8 @@
-<h2 align="center">Patika BNB Chain Practicum - Projects</h2>
+<h2>Patika BNB Chain Practicum - Projects</h2>
 
-<p align="center">
+<p>
   <a href="https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/ConsenSysAcad" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ConsenSysAcad.svg?logo=twitter">
   </a>
 </p>
 
@@ -25,10 +19,12 @@ Projects are listed under the following categories:
 - [NFT](NFT)
 - [SocialFi](SocialFi)
 
+Each category has a folder under this repository, and contributors can list their own projects under the folders.
+
 ---
 
 ## Contributions
 
-You can edit this file and add your project under the related category. Once it's reviewed, your project will be listed here.
+Check the READMEs under the category folders and see how to contribute.
 
-If you see an error in the file, please open an issue and submit a pull request.
+Please open an issue and submit a pull request if you see an error in any files.
