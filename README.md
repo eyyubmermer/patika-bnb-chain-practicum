@@ -14,19 +14,16 @@
 
 ---
 
-## Projects
+### Projects
 
-### NFT
+Projects are listed under the following categories:
 
-### GameFi
-
-### DeFi
-
-### SocialFi
-
-### Metaverse
-
-### Infra
+- [DeFi](DeFi)
+- [GameFi](GameFi)
+- [Infra](Infra)
+- [Metaverse](Metaverse)
+- [NFT](NFT)
+- [SocialFi](SocialFi)
 
 ---
 
